@@ -1,4 +1,5 @@
-![github-header-image (3)](https://github.com/GYana7807/Profile/assets/158683308/11016c5b-140b-4aee-a5ea-4bdcec730ed4)
+![github-header-image (3)](https://github.com/GYana7807/GYana7807/assets/158683308/b368fc40-e507-4ccf-9d86-cd6f5075f208)
+
 
 <h1 align="center">Hi 👋, I'm GYANA PRAKASH SAHOO</h1>
 <h3 align="center"> A passionate Software and Web Developer from India </h3>
